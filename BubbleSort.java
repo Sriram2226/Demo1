@@ -1,9 +1,9 @@
 import java.util.*;
-
+//Bubble class created
 class Bubble
 {
     private int a[], n;
-
+    int t = 1;
     Scanner scan = new Scanner(System.in);
 
     public void getdata()
