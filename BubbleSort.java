@@ -3,6 +3,7 @@ import java.util.*;
 class Bubble
 {
     private int a[], n;
+    //hi, hello
     
     Scanner scan = new Scanner(System.in);
 
